@@ -1,0 +1,216 @@
+{
+  "Stage00": {
+    "Router01": {
+      "Wave01": [
+        {
+          "EnemyType": "Land",
+          "EnemyNumber": "0"
+        },
+        {
+          "EnemyType": "Land",
+          "EnemyNumber": "0"
+        },
+        {
+          "EnemyType": "Land",
+          "EnemyNumber": "0"
+        },
+        {
+          "EnemyType": "Land",
+          "EnemyNumber": "0"
+        },
+        {
+          "EnemyType": "Land",
+          "EnemyNumber": "0"
+        },
+        {
+          "EnemyType": "Land",
+          "EnemyNumber": "0"
+        }
+      ],
+      "Wave02": [
+        {
+          "EnemyType": "Land",
+          "EnemyNumber": "1"
+        },
+        {
+          "EnemyType": "Land",
+          "EnemyNumber": "1"
+        },
+        {
+          "EnemyType": "Land",
+          "EnemyNumber": "1"
+        },
+        {
+          "EnemyType": "Land",
+          "EnemyNumber": "1"
+        },
+        {
+          "EnemyType": "Land",
+          "EnemyNumber": "1"
+        },
+        {
+          "EnemyType": "Land",
+          "EnemyNumber": "1"
+        }
+      ],
+      "Wave03": [
+        {
+          "EnemyType": "Land",
+          "EnemyNumber": "0"
+        },
+        {
+          "EnemyType": "Land",
+          "EnemyNumber": "0"
+        },
+        {
+          "EnemyType": "Land",
+          "EnemyNumber": "0"
+        },
+        {
+          "EnemyType": "Land",
+          "EnemyNumber": "0"
+        },
+        {
+          "EnemyType": "Land",
+          "EnemyNumber": "0"
+        },
+        {
+          "EnemyType": "Land",
+          "EnemyNumber": "0"
+        }
+      ],
+      "Wave04": [
+        {
+          "EnemyType": "Land",
+          "EnemyNumber": "0"
+        },
+        {
+          "EnemyType": "Land",
+          "EnemyNumber": "0"
+        },
+        {
+          "EnemyType": "Land",
+          "EnemyNumber": "0"
+        },
+        {
+          "EnemyType": "Land",
+          "EnemyNumber": "0"
+        },
+        {
+          "EnemyType": "Land",
+          "EnemyNumber": "0"
+        },
+        {
+          "EnemyType": "Land",
+          "EnemyNumber": "0"
+        }
+      ]
+    },
+    "Router02": {
+      "Wave016": [
+        {
+          "EnemyType": "Land",
+          "EnemyNumber": "0"
+        },
+        {
+          "EnemyType": "Land",
+          "EnemyNumber": "0"
+        },
+        {
+          "EnemyType": "Land",
+          "EnemyNumber": "0"
+        },
+        {
+          "EnemyType": "Land",
+          "EnemyNumber": "0"
+        },
+        {
+          "EnemyType": "Land",
+          "EnemyNumber": "0"
+        },
+        {
+          "EnemyType": "Land",
+          "EnemyNumber": "0"
+        }
+      ],
+      "Wave027": [
+        {
+          "EnemyType": "Land",
+          "EnemyNumber": "1"
+        },
+        {
+          "EnemyType": "Land",
+          "EnemyNumber": "1"
+        },
+        {
+          "EnemyType": "Land",
+          "EnemyNumber": "1"
+        },
+        {
+          "EnemyType": "Land",
+          "EnemyNumber": "1"
+        },
+        {
+          "EnemyType": "Land",
+          "EnemyNumber": "1"
+        },
+        {
+          "EnemyType": "Land",
+          "EnemyNumber": "1"
+        }
+      ],
+      "Wave038": [
+        {
+          "EnemyType": "Land",
+          "EnemyNumber": "0"
+        },
+        {
+          "EnemyType": "Land",
+          "EnemyNumber": "0"
+        },
+        {
+          "EnemyType": "Land",
+          "EnemyNumber": "0"
+        },
+        {
+          "EnemyType": "Land",
+          "EnemyNumber": "0"
+        },
+        {
+          "EnemyType": "Land",
+          "EnemyNumber": "0"
+        },
+        {
+          "EnemyType": "Land",
+          "EnemyNumber": "0"
+        }
+      ],
+      "Wave049": [
+        {
+          "EnemyType": "Land",
+          "EnemyNumber": "0"
+        },
+        {
+          "EnemyType": "Land",
+          "EnemyNumber": "0"
+        },
+        {
+          "EnemyType": "Land",
+          "EnemyNumber": "0"
+        },
+        {
+          "EnemyType": "Land",
+          "EnemyNumber": "0"
+        },
+        {
+          "EnemyType": "Land",
+          "EnemyNumber": "0"
+        },
+        {
+          "EnemyType": "Land",
+          "EnemyNumber": "0"
+        }
+      ]
+    }
+  }
+}

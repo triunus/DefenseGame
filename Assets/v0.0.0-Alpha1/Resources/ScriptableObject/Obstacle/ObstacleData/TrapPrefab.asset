@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: debd787a3968da5428774c73dbdbee78, type: 3}
+  m_Name: TrapPrefab
+  m_EditorClassIdentifier: 
+  obstacleType: 1
+  obstaclePrefabDatas:
+  - obstacleType: 1
+    obstacleNumber: 0
+    gameObject: {fileID: 5610733390279229189, guid: e900ac7347a286c47a647a8c21b5203b, type: 3}
+  - obstacleType: 1
+    obstacleNumber: 1
+    gameObject: {fileID: 2356620424335042723, guid: 6cd5df05ad29b984787906e067cf4e58, type: 3}

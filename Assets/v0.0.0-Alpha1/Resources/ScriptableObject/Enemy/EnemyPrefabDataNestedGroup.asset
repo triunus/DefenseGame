@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 622efeff2f9461941bf270e171ac83ed, type: 3}
+  m_Name: EnemyPrefabDataNestedGroup
+  m_EditorClassIdentifier: 
+  enemyPrefabDataGroups:
+  - {fileID: 11400000, guid: 11d21c55e67f6ab4f9d372c657864e30, type: 2}
+  - {fileID: 11400000, guid: 3869cf3497ce2254eab957acddc683fe, type: 2}

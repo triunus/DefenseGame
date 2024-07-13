@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c62ea522f995f7e4ebcccad28ecbe887, type: 3}
+  m_Name: ProfileImageDataGroup
+  m_EditorClassIdentifier: 
+  profileImageDatas:
+  - profileImageNumber: 0
+    profileImageTexture2D: {fileID: 2800000, guid: 879eb3196bae02649b9360b472267f9d, type: 3}
+  - profileImageNumber: 1
+    profileImageTexture2D: {fileID: 2800000, guid: f2f9800a1d8f6624db87fcc401513e95, type: 3}
+  - profileImageNumber: 2
+    profileImageTexture2D: {fileID: 2800000, guid: cac9f704575bbe744b68791d16b1806a, type: 3}

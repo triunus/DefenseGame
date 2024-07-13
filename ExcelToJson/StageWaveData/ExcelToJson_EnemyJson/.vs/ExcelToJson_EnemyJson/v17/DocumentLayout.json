@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\eogns\\Desktop\\DeffenseGame\\Enemy\\ExcelToJson_EnemyJson\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{05E8E694-8F54-4B47-8CDF-B50F03951B21}|ExcelToJson_EnemyJson\\ExcelToJson_EnemyJson.csproj|c:\\users\\eogns\\desktop\\deffensegame\\enemy\\exceltojson_enemyjson\\exceltojson_enemyjson\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05E8E694-8F54-4B47-8CDF-B50F03951B21}|ExcelToJson_EnemyJson\\ExcelToJson_EnemyJson.csproj|solutionrelative:exceltojson_enemyjson\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 180,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\eogns\\Desktop\\DeffenseGame\\Enemy\\ExcelToJson_EnemyJson\\ExcelToJson_EnemyJson\\Program.cs",
+              "RelativeDocumentMoniker": "ExcelToJson_EnemyJson\\Program.cs",
+              "ToolTip": "C:\\Users\\eogns\\Desktop\\DeffenseGame\\Enemy\\ExcelToJson_EnemyJson\\ExcelToJson_EnemyJson\\Program.cs*",
+              "RelativeToolTip": "ExcelToJson_EnemyJson\\Program.cs*",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T10:28:36.349Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,591 @@
+{
+  "Stage00": {
+    "SideWall": [
+      {
+        "X": "0",
+        "Z": "0",
+        "CreatedObjectType": "Wall",
+        "ObjectNumber": "0"
+      },
+      {
+        "X": "1",
+        "Z": "0",
+        "CreatedObjectType": "Wall",
+        "ObjectNumber": "0"
+      },
+      {
+        "X": "2",
+        "Z": "0",
+        "CreatedObjectType": "Wall",
+        "ObjectNumber": "0"
+      },
+      {
+        "X": "3",
+        "Z": "0",
+        "CreatedObjectType": "Wall",
+        "ObjectNumber": "0"
+      },
+      {
+        "X": "4",
+        "Z": "0",
+        "CreatedObjectType": "Wall",
+        "ObjectNumber": "0"
+      },
+      {
+        "X": "5",
+        "Z": "0",
+        "CreatedObjectType": "Wall",
+        "ObjectNumber": "0"
+      },
+      {
+        "X": "6",
+        "Z": "0",
+        "CreatedObjectType": "Wall",
+        "ObjectNumber": "0"
+      },
+      {
+        "X": "7",
+        "Z": "0",
+        "CreatedObjectType": "Wall",
+        "ObjectNumber": "0"
+      },
+      {
+        "X": "8",
+        "Z": "0",
+        "CreatedObjectType": "Wall",
+        "ObjectNumber": "0"
+      },
+      {
+        "X": "9",
+        "Z": "0",
+        "CreatedObjectType": "Wall",
+        "ObjectNumber": "0"
+      },
+      {
+        "X": "10",
+        "Z": "0",
+        "CreatedObjectType": "Wall",
+        "ObjectNumber": "0"
+      },
+      {
+        "X": "11",
+        "Z": "0",
+        "CreatedObjectType": "Wall",
+        "ObjectNumber": "0"
+      },
+      {
+        "X": "12",
+        "Z": "0",
+        "CreatedObjectType": "Wall",
+        "ObjectNumber": "0"
+      },
+      {
+        "X": "13",
+        "Z": "0",
+        "CreatedObjectType": "Wall",
+        "ObjectNumber": "0"
+      },
+      {
+        "X": "14",
+        "Z": "0",
+        "CreatedObjectType": "Wall",
+        "ObjectNumber": "0"
+      },
+      {
+        "X": "15",
+        "Z": "0",
+        "CreatedObjectType": "Wall",
+        "ObjectNumber": "0"
+      },
+      {
+        "X": "16",
+        "Z": "0",
+        "CreatedObjectType": "Wall",
+        "ObjectNumber": "0"
+      },
+      {
+        "X": "17",
+        "Z": "0",
+        "CreatedObjectType": "Wall",
+        "ObjectNumber": "0"
+      },
+      {
+        "X": "18",
+        "Z": "0",
+        "CreatedObjectType": "Wall",
+        "ObjectNumber": "0"
+      },
+      {
+        "X": "19",
+        "Z": "0",
+        "CreatedObjectType": "Wall",
+        "ObjectNumber": "0"
+      },
+      {
+        "X": "0",
+        "Z": "9",
+        "CreatedObjectType": "Wall",
+        "ObjectNumber": "0"
+      },
+      {
+        "X": "1",
+        "Z": "9",
+        "CreatedObjectType": "Wall",
+        "ObjectNumber": "0"
+      },
+      {
+        "X": "2",
+        "Z": "9",
+        "CreatedObjectType": "Wall",
+        "ObjectNumber": "0"
+      },
+      {
+        "X": "3",
+        "Z": "9",
+        "CreatedObjectType": "Wall",
+        "ObjectNumber": "0"
+      },
+      {
+        "X": "4",
+        "Z": "9",
+        "CreatedObjectType": "Wall",
+        "ObjectNumber": "0"
+      },
+      {
+        "X": "5",
+        "Z": "9",
+        "CreatedObjectType": "Wall",
+        "ObjectNumber": "0"
+      },
+      {
+        "X": "6",
+        "Z": "9",
+        "CreatedObjectType": "Wall",
+        "ObjectNumber": "0"
+      },
+      {
+        "X": "7",
+        "Z": "9",
+        "CreatedObjectType": "Wall",
+        "ObjectNumber": "0"
+      },
+      {
+        "X": "8",
+        "Z": "9",
+        "CreatedObjectType": "Wall",
+        "ObjectNumber": "0"
+      },
+      {
+        "X": "9",
+        "Z": "9",
+        "CreatedObjectType": "Wall",
+        "ObjectNumber": "0"
+      },
+      {
+        "X": "10",
+        "Z": "9",
+        "CreatedObjectType": "Wall",
+        "ObjectNumber": "0"
+      },
+      {
+        "X": "11",
+        "Z": "9",
+        "CreatedObjectType": "Wall",
+        "ObjectNumber": "0"
+      },
+      {
+        "X": "12",
+        "Z": "9",
+        "CreatedObjectType": "Wall",
+        "ObjectNumber": "0"
+      },
+      {
+        "X": "13",
+        "Z": "9",
+        "CreatedObjectType": "Wall",
+        "ObjectNumber": "0"
+      },
+      {
+        "X": "14",
+        "Z": "9",
+        "CreatedObjectType": "Wall",
+        "ObjectNumber": "0"
+      },
+      {
+        "X": "15",
+        "Z": "9",
+        "CreatedObjectType": "Wall",
+        "ObjectNumber": "0"
+      },
+      {
+        "X": "16",
+        "Z": "9",
+        "CreatedObjectType": "Wall",
+        "ObjectNumber": "0"
+      },
+      {
+        "X": "17",
+        "Z": "9",
+        "CreatedObjectType": "Wall",
+        "ObjectNumber": "0"
+      },
+      {
+        "X": "19",
+        "Z": "9",
+        "CreatedObjectType": "Wall",
+        "ObjectNumber": "0"
+      },
+      {
+        "X": "0",
+        "Z": "1",
+        "CreatedObjectType": "Wall",
+        "ObjectNumber": "0"
+      },
+      {
+        "X": "0",
+        "Z": "2",
+        "CreatedObjectType": "Wall",
+        "ObjectNumber": "0"
+      },
+      {
+        "X": "0",
+        "Z": "3",
+        "CreatedObjectType": "Wall",
+        "ObjectNumber": "0"
+      },
+      {
+        "X": "0",
+        "Z": "6",
+        "CreatedObjectType": "Wall",
+        "ObjectNumber": "0"
+      },
+      {
+        "X": "0",
+        "Z": "7",
+        "CreatedObjectType": "Wall",
+        "ObjectNumber": "0"
+      },
+      {
+        "X": "0",
+        "Z": "8",
+        "CreatedObjectType": "Wall",
+        "ObjectNumber": "0"
+      },
+      {
+        "X": "19",
+        "Z": "1",
+        "CreatedObjectType": "Wall",
+        "ObjectNumber": "0"
+      },
+      {
+        "X": "19",
+        "Z": "2",
+        "CreatedObjectType": "Wall",
+        "ObjectNumber": "0"
+      },
+      {
+        "X": "19",
+        "Z": "3",
+        "CreatedObjectType": "Wall",
+        "ObjectNumber": "0"
+      },
+      {
+        "X": "19",
+        "Z": "4",
+        "CreatedObjectType": "Wall",
+        "ObjectNumber": "0"
+      },
+      {
+        "X": "19",
+        "Z": "6",
+        "CreatedObjectType": "Wall",
+        "ObjectNumber": "0"
+      },
+      {
+        "X": "19",
+        "Z": "7",
+        "CreatedObjectType": "Wall",
+        "ObjectNumber": "0"
+      },
+      {
+        "X": "19",
+        "Z": "8",
+        "CreatedObjectType": "Wall",
+        "ObjectNumber": "0"
+      }
+    ],
+    "MainWall": [
+      {
+        "X": "2",
+        "Z": "3",
+        "CreatedObjectType": "Wall",
+        "ObjectNumber": "1"
+      },
+      {
+        "X": "3",
+        "Z": "3",
+        "CreatedObjectType": "Wall",
+        "ObjectNumber": "1"
+      },
+      {
+        "X": "4",
+        "Z": "3",
+        "CreatedObjectType": "Wall",
+        "ObjectNumber": "1"
+      },
+      {
+        "X": "5",
+        "Z": "3",
+        "CreatedObjectType": "Wall",
+        "ObjectNumber": "1"
+      },
+      {
+        "X": "6",
+        "Z": "3",
+        "CreatedObjectType": "Wall",
+        "ObjectNumber": "1"
+      },
+      {
+        "X": "7",
+        "Z": "3",
+        "CreatedObjectType": "Wall",
+        "ObjectNumber": "1"
+      },
+      {
+        "X": "8",
+        "Z": "3",
+        "CreatedObjectType": "Wall",
+        "ObjectNumber": "1"
+      },
+      {
+        "X": "9",
+        "Z": "3",
+        "CreatedObjectType": "Wall",
+        "ObjectNumber": "1"
+      },
+      {
+        "X": "10",
+        "Z": "3",
+        "CreatedObjectType": "Wall",
+        "ObjectNumber": "1"
+      },
+      {
+        "X": "11",
+        "Z": "3",
+        "CreatedObjectType": "Wall",
+        "ObjectNumber": "1"
+      },
+      {
+        "X": "12",
+        "Z": "3",
+        "CreatedObjectType": "Wall",
+        "ObjectNumber": "1"
+      },
+      {
+        "X": "13",
+        "Z": "3",
+        "CreatedObjectType": "Wall",
+        "ObjectNumber": "1"
+      },
+      {
+        "X": "14",
+        "Z": "3",
+        "CreatedObjectType": "Wall",
+        "ObjectNumber": "1"
+      },
+      {
+        "X": "15",
+        "Z": "3",
+        "CreatedObjectType": "Wall",
+        "ObjectNumber": "1"
+      },
+      {
+        "X": "16",
+        "Z": "3",
+        "CreatedObjectType": "Wall",
+        "ObjectNumber": "1"
+      },
+      {
+        "X": "17",
+        "Z": "3",
+        "CreatedObjectType": "Wall",
+        "ObjectNumber": "1"
+      },
+      {
+        "X": "2",
+        "Z": "6",
+        "CreatedObjectType": "Wall",
+        "ObjectNumber": "1"
+      },
+      {
+        "X": "3",
+        "Z": "6",
+        "CreatedObjectType": "Wall",
+        "ObjectNumber": "1"
+      },
+      {
+        "X": "4",
+        "Z": "6",
+        "CreatedObjectType": "Wall",
+        "ObjectNumber": "1"
+      },
+      {
+        "X": "5",
+        "Z": "6",
+        "CreatedObjectType": "Wall",
+        "ObjectNumber": "1"
+      },
+      {
+        "X": "6",
+        "Z": "6",
+        "CreatedObjectType": "Wall",
+        "ObjectNumber": "1"
+      },
+      {
+        "X": "7",
+        "Z": "6",
+        "CreatedObjectType": "Wall",
+        "ObjectNumber": "1"
+      },
+      {
+        "X": "8",
+        "Z": "6",
+        "CreatedObjectType": "Wall",
+        "ObjectNumber": "1"
+      },
+      {
+        "X": "9",
+        "Z": "6",
+        "CreatedObjectType": "Wall",
+        "ObjectNumber": "1"
+      },
+      {
+        "X": "10",
+        "Z": "6",
+        "CreatedObjectType": "Wall",
+        "ObjectNumber": "1"
+      },
+      {
+        "X": "11",
+        "Z": "6",
+        "CreatedObjectType": "Wall",
+        "ObjectNumber": "1"
+      },
+      {
+        "X": "12",
+        "Z": "6",
+        "CreatedObjectType": "Wall",
+        "ObjectNumber": "1"
+      },
+      {
+        "X": "13",
+        "Z": "6",
+        "CreatedObjectType": "Wall",
+        "ObjectNumber": "1"
+      },
+      {
+        "X": "14",
+        "Z": "6",
+        "CreatedObjectType": "Wall",
+        "ObjectNumber": "1"
+      },
+      {
+        "X": "15",
+        "Z": "6",
+        "CreatedObjectType": "Wall",
+        "ObjectNumber": "1"
+      },
+      {
+        "X": "16",
+        "Z": "6",
+        "CreatedObjectType": "Wall",
+        "ObjectNumber": "1"
+      },
+      {
+        "X": "17",
+        "Z": "6",
+        "CreatedObjectType": "Wall",
+        "ObjectNumber": "1"
+      }
+    ],
+    "FriendlyBase": [
+      {
+        "X": "0",
+        "Z": "4",
+        "CreatedObjectType": "FriendlyBase",
+        "ObjectNumber": "0"
+      },
+      {
+        "X": "0",
+        "Z": "5",
+        "CreatedObjectType": "FriendlyBase",
+        "ObjectNumber": "0"
+      }
+    ],
+    "EnemySpawner": [
+      {
+        "X": "19",
+        "Z": "5",
+        "CreatedObjectType": "EnemySpawner",
+        "ObjectNumber": "1"
+      },
+      {
+        "X": "18",
+        "Z": "9",
+        "CreatedObjectType": "EnemySpawner",
+        "ObjectNumber": "0"
+      }
+    ],
+    "Obstacle": [
+      {
+        "X": "9",
+        "Z": "5",
+        "CreatedObjectType": "Obstacle",
+        "ObstacleType": "Block",
+        "ObjectNumber": "0"
+      },
+      {
+        "X": "9",
+        "Z": "8",
+        "CreatedObjectType": "Obstacle",
+        "ObstacleType": "Block",
+        "ObjectNumber": "0"
+      },
+      {
+        "X": "11",
+        "Z": "1",
+        "CreatedObjectType": "Obstacle",
+        "ObstacleType": "Block",
+        "ObjectNumber": "2"
+      },
+      {
+        "X": "11",
+        "Z": "2",
+        "CreatedObjectType": "Obstacle",
+        "ObstacleType": "Block",
+        "ObjectNumber": "2"
+      },
+      {
+        "X": "11",
+        "Z": "7",
+        "CreatedObjectType": "Obstacle",
+        "ObstacleType": "Block",
+        "ObjectNumber": "1"
+      },
+      {
+        "X": "12",
+        "Z": "1",
+        "CreatedObjectType": "Obstacle",
+        "ObstacleType": "Trap",
+        "ObjectNumber": "0"
+      },
+      {
+        "X": "12",
+        "Z": "2",
+        "CreatedObjectType": "Obstacle",
+        "ObstacleType": "Trap",
+        "ObjectNumber": "0"
+      }
+    ]
+  }
+}
